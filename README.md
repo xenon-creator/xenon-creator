@@ -39,13 +39,10 @@ Git & GitHub
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=xenon-creator&show_icons=true&theme=dark)
 
 ---
 
 ## 📫 Connect With Me
 
-LinkedIn: (add link)  
+LinkedIn: https://www.linkedin.com/in/saran005/  
 TryHackMe: https://tryhackme.com/p/raiuga6
