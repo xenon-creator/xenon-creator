@@ -14,7 +14,7 @@ Currently a 3rd-year student actively building a security-focused portfolio. Ope
 |---|---|---|
 | **Sentinel-Scan** | Security scanning tool to detect vulnerabilities and misconfigurations across targets | Python · Nmap · Bash |
 | **Network Traffic Anomaly Detector** | Python-based system for detecting suspicious network behavior, built for SOC team workflows | Python · Wireshark · ML |
-| **FindMyThali** *(Ongoing)* | Food recommendation engine analyzing regional food demand patterns | Python · MongoDB · Data Analysis |
+
 
 ---
 
